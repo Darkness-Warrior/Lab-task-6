@@ -19,3 +19,5 @@ class MyClass:
         self.arg1 = arg1
         self.arg2 = arg2
 
+my_object = MyClass(1,2)
+print(my_object.size) 
